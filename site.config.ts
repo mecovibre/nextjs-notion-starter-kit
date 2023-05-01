@@ -18,8 +18,8 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'meco_vibre',
-  instagram: 'meco_vibre',
-  // linkedin: 'fisch2',
+  // github: '#',
+  // linkedin: '#',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   newsletter: 'https://dawoom.stibee.com/', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
